@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="MasterHead" />
+<img src="[https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="MasterHead](https://www.google.com/imgres?q=developer%20gif&imgurl=https%3A%2F%2Fmedia1.giphy.com%2Fmedia%2Fu2pmTWUi0MXjyrMaVj%2F200w.gif%3Fcid%3D6c09b952c1gv6v157xvtq2jgfhytvjhey9z8shrf3il0jnro%26ep%3Dv1_gifs_search%26rid%3D200w.gif%26ct%3Dg&imgrefurl=https%3A%2F%2Fgiphy.com%2Fexplore%2Ffront-end-development&docid=HKEWbHkS4CKS_M&tbnid=ZiJLhwabui-QEM&vet=12ahUKEwjvgNTL3P6JAxXyjK8BHSmmBiYQM3oECGgQAA..i&w=200&h=200&hcb=2&ved=2ahUKEwjvgNTL3P6JAxXyjK8BHSmmBiYQM3oECGgQAA)" />
 <h1 align="center">Hi 👋, I'm SYED SHAHBAZ</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0">
